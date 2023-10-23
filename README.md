@@ -9,7 +9,7 @@ To create a file inside the folder you want make then run the command touch then
 
 # Tip: Use tab button to complete the folder name eg if you want to open a file named "linux commands for cloud computing" then only time linux then press tab to which automtaically complete it 
 
-To write inside your tab then type command 'nano' and then name of the file eg nano test.txt and to save the text just press ctrl + X and then y 
+To write inside your tab then type command 'nano' whichn is a text editor and then name of the file eg nano test.txt and to save the text just press ctrl + X and then y 
 
 
 
